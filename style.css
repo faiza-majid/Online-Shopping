@@ -1,0 +1,19 @@
+* { box-sizing: border-box; }
+body { font-family: Arial, sans-serif; margin: 24px; background: #f7f7fb; color: #222; }
+h1, h2 { margin: 0 0 12px; }
+.nav { display: flex; gap: 10px; margin-bottom: 16px; flex-wrap: wrap; }
+.nav a { text-decoration: none; padding: 8px 12px; background: #0d6efd; color: #fff; border-radius: 10px; }
+.nav a:hover { opacity: 0.9; }
+.card { background: #fff; border-radius: 14px; padding: 16px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); margin-bottom: 18px; }
+table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; }
+th, td { padding: 10px 12px; border-bottom: 1px solid #eee; text-align: left; }
+th { background: #f0f4ff; }
+.actions a, .actions button { margin-right: 6px; }
+.btn { display: inline-block; padding: 8px 12px; border-radius: 8px; border: none; cursor: pointer; }
+.btn-primary { background: #0d6efd; color: #fff; }
+.btn-success { background: #198754; color: #fff; }
+.btn-danger { background: #dc3545; color: #fff; }
+input, select, textarea { width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 8px; margin: 6px 0 12px; background: #fff; }
+label { font-weight: bold; }
+.small { color: #666; font-size: 13px; }
+footer { margin-top: 36px; color: #666; font-size: 12px; }
