@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <div class="card">
   <h2>Welcome 👋</h2>
-  <p>This is a minimal, clean PHP + MySQL project to manage an online shop for your semester assignment.</p>
+  <p>Welcome to our shopping store.</p>
   <ul>
     <li>CRUD for Customers and Products</li>
     <li>Create Orders with multiple products</li>
